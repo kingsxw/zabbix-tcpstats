@@ -1,0 +1,2 @@
+zabbix ALL=(ALL)      NOPASSWD: /etc/zabbix/scripts/tcpmon/tcp_port_discovery.sh
+zabbix ALL=(ALL)      NOPASSWD: /etc/zabbix/scripts/tcpmon/tcp_status_master.sh
